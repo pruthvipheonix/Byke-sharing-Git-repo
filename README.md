@@ -31,8 +31,8 @@ How well those variables describe the bike demands
 - Significant variables to predict the demand for shared bikes¶
   * temp
   * yr_2019
-  * Season(Spring,Summer,Winter)
-  * months(September, July)
+  * Season(Winter)
+  * months(September,)
   * weathersit( Light Snow, Mist Cloudy)
 
 - Significant variables which impacts the use of shared bikes¶
